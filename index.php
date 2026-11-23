@@ -11,5 +11,3 @@ $club->addPlayer('Mbappe', 'Left Wing');
 echo '<pre>';
 var_dump($club);
 echo '</pre>';
-
-echo 'dame1';
