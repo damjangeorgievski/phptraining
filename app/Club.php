@@ -24,6 +24,5 @@ class Club implements ExampleInterface
             'name' => $playerName,
             'position' => $playerPosition
         ]);
-        echo 'dame33';
     }
 }
